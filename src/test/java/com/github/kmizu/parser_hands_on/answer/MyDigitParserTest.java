@@ -1,4 +1,4 @@
-package com.github.kmizu.parser_hands_on.answer;
+package com.github.kmizu.parser_hands_on.my_parser;
 
 import com.github.kmizu.parser_hands_on.ParseFailure;
 import static org.junit.Assert.*;
